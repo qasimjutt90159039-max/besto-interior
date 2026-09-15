@@ -1,0 +1,6 @@
+{
+  "name": "Besto Interior",
+  "description": "Upholstery shop located in Ichra Furniture Market, Lahore. Refined upholstery and furniture finishing studio with fabric and material showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
